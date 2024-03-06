@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omarseck6
-- 👀 I’m interested in new technology
+- 👀 I’m interested in new technology and code, I am a junior  web developper.
 - 🌱 I’m currently learning software engineering
 
 <!---
