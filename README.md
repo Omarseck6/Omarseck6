@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @omarseck6</h1>
 <h3 align="center">A passionate junior developer and software engineering student</h3>
 
-- 🔭 I’m currently working on **Hotel-booking Management**
+- 🔭 I’m currently working on **a Hotel-booking Management project with PHP/mysql**
 
 - 🌱 I’m currently learning **software engineering**
 
