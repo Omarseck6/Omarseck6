@@ -1,6 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 [![MasterHead](https://kpshopy.com/storage/app/blog/nK3Ibqpw5WFzWaFTYmz5xjb6ZrA3dDy5ySr81NPX.jpeg)])
-
 
 <h1 align="center">Hi 👋, I'm omarseck</h1>
 <h3 align="center">Software Enginee, enthusiasm and curiosity in the service of innovation in Senegalr</h3>
