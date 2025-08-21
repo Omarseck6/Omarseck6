@@ -1,15 +1,16 @@
 ![Header](https://kpshopy.com/storage/app/blog/nK3Ibqpw5WFzWaFTYmz5xjb6ZrA3dDy5ySr81NPX.jpeg)
 
 <h1 align="center">Hi 👋, I'm omarseck</h1>
-<h3 align="center">I'm a passionate Software Engineer from Senegal</h3>
+<h3 align="center">Software Engineer</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 
 - 📫 How to reach me **omarseck.dev@gmail.com**
 
   Projects :
-- <a href="https://elitedental.fr/">elitedental.fr</a> (custom WordPress site)
-- <a href="https://www.yobbal.sn/">yobbal.sn</a> (React.js, NodeJS, JavaScript, MySQL, GIT, Vercel) ...
+- <a href="https://elitedental.fr/">Elite Dentalr</a> (custom WordPress site)
+- <a href="https://www.baatukaay.com/">Baatukaay</a> (React.js, Next.js, NodeJS, Express.js, TypeScript, MySQL, GIT, Vercel)
+- <a href="https://www.yobbal.sn/">Yobbal</a> (React.js, Next.js, NodeJS, Express.js, JavaScript, MySQL, GIT, Vercel) ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
