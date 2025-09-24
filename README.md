@@ -8,7 +8,7 @@
 - 📫 How to reach me **omarseck.dev@gmail.com**
 
   Projects :
-- <a href="https://elitedental.fr/">Elite Dentalr</a> (custom WordPress site)
+- <a href="https://elitedental.fr/">Elite Dental</a> (custom WordPress site)
 - <a href="https://www.baatukaay.com/">Baatukaay</a> (React.js, Next.js, NodeJS, Express.js, TypeScript, MySQL, GIT, Vercel)
 - <a href="https://www.yobbal.sn/">Yobbal</a> (React.js, Next.js, NodeJS, Express.js, JavaScript, MySQL, GIT, Vercel) ...
 
