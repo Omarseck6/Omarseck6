@@ -10,7 +10,7 @@
   Projects :
 - <a href="https://elitedental.fr/">Elite Dental</a> (custom WordPress site)
 - <a href="https://www.baatukaay.com/">Baatukaay</a> (React.js, Next.js, NodeJS, Express.js, Laravel, TypeScript, MySQL, GIT, Vercel)
-- <a href="https://www.yobbal.sn/">Yobbal</a> (React.js, Next.js, NodeJS, Express.js, Laravel, JavaScript, MySQL, GIT, Vercel) ...
+- <a href="https://www.yobbal.sn/">Yobbal</a> (React.js, Next.js, NodeJS, Express.js, Laravel, JavaScript, MySQL, GIT, Vercel)
 - <a href="https://https://bokkdem.sn//">Bokk Dem</a>
 
 <h3 align="left">Connect with me:</h3>
