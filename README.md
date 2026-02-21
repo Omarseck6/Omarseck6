@@ -8,7 +8,19 @@
 - 📫 How to reach me **omarseck.dev@gmail.com**
 
   Projects :
-- <a href="https://elitedental.fr/">Elite Dental</a> (custom WordPress site)
+- <a href="https://elitedental.fr/">Elite Dental</a> – Custom WordPress Website
+
+Professional website developed using WordPress for a dental laboratory specializing in the sale of dental products.
+
+🔹 Complete theme development and customization
+🔹 Implementation of a structured product catalog
+🔹 UX/UI optimization and responsive design
+🔹 Plugin integration and configuration (security, performance, SEO)
+🔹 Performance optimization (Core Web Vitals)
+
+🎯 Objective: Improve the laboratory's online visibility and facilitate the presentation of products to dental professionals.
+
+Translated with DeepL.com (free version)
 - <a href="https://www.baatukaay.com/">Baatukaay</a> (React.js, Next.js, NodeJS, Express.js, Laravel, TypeScript, MySQL, GIT, Vercel)
 - <a href="https://www.yobbal.sn/">Yobbal</a> (React.js, Next.js, NodeJS, Express.js, Laravel, JavaScript, MySQL, GIT, Vercel)
 - <a href="https://https://bokkdem.sn//">Bokk Dem</a>
