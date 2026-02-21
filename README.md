@@ -8,22 +8,56 @@
 - 📫 How to reach me **omarseck.dev@gmail.com**
 
   Projects :
-- <a href="https://elitedental.fr/">Elite Dental</a> – Custom WordPress Website
 
-Professional website developed using WordPress for a dental laboratory specializing in the sale of dental products.
+- <a href="https://elitedental.fr/" target="_blank"><strong>🦷 Elite Dental</strong></a> – Custom WordPress Website  
 
-🔹 Complete theme development and customization
-🔹 Implementation of a structured product catalog
-🔹 UX/UI optimization and responsive design
-🔹 Plugin integration and configuration (security, performance, SEO)
-🔹 Performance optimization (Core Web Vitals)
+Professional website developed for a dental laboratory specialized in selling dental products and equipment.
 
-🎯 Objective: Improve the laboratory's online visibility and facilitate the presentation of products to dental professionals.
+• Fully customized WordPress theme  
+• Structured product catalog implementation  
+• UX/UI optimization with responsive design  
+• SEO, security and performance plugin integration  
+• Core Web Vitals optimization  
 
-Translated with DeepL.com (free version)
-- <a href="https://www.baatukaay.com/">Baatukaay</a> (React.js, Next.js, NodeJS, Express.js, Laravel, TypeScript, MySQL, GIT, Vercel)
-- <a href="https://www.yobbal.sn/">Yobbal</a> (React.js, Next.js, NodeJS, Express.js, Laravel, JavaScript, MySQL, GIT, Vercel)
-- <a href="https://https://bokkdem.sn//">Bokk Dem</a>
+🎯 Goal: Strengthen the company’s digital presence and provide a professional platform for showcasing dental products.
+
+---
+
+- <a href="https://www.baatukaay.com/" target="_blank"><strong>📖 Baatukaay</strong></a> – Multilingual Online Dictionary (FR–EN–Wolof)  
+
+Full-stack web and mobile dictionary application designed to promote and digitize African languages.
+
+• Instant word search with dynamic results  
+• RESTful API for translations  
+• Scalable backend architecture  
+• Cross-platform mobile application  
+• Responsive web interface  
+
+**Tech Stack:** React.js, Next.js, React Native, Node.js, Express.js, Laravel, TypeScript, MySQL, Git, Vercel  
+
+🎯 Goal: Build a scalable and accessible digital dictionary platform for language preservation.
+
+---
+
+- <a href="https://www.yobbal.sn/" target="_blank"><strong>📦 Yobbal</strong></a> – Parcel Delivery & Tracking Platform  
+
+Full-stack logistics platform enabling users to send, receive and track parcels efficiently.
+
+• Parcel creation and shipment management  
+• Real-time tracking system  
+• Customer interface & admin dashboard  
+• Order status management (Pending, In Transit, Delivered)  
+• RESTful API integration  
+
+**Tech Stack:** React.js, Next.js, React Native, Node.js, Express.js, Laravel, JavaScript, MySQL, Git, Vercel  
+
+🎯 Goal: Provide a modern and scalable digital logistics solution for local delivery operations.
+
+---
+
+- <a href="https://bokkdem.sn/" target="_blank"><strong>🚗 Bokk Dem</strong></a>  
+
+Digital mobility platform (details coming soon).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
