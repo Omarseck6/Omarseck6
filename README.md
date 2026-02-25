@@ -55,9 +55,22 @@ Full-stack logistics platform enabling users to send, receive and track parcels 
 
 ---
 
-- <a href="https://bokkdem.sn/" target="_blank"><strong>🚗 Bokk Dem</strong></a>  
+- <a href="https://bokkdem.sn/" target="_blank"><strong>🚗 Bokk Dem</strong></a> – Moto-Taxi Mobile Platform (MVP)
 
-Digital mobility platform (details coming soon).
+Lead Mobile Developer responsible for designing and delivering the MVP of a dual mobile application ecosystem (Client & Driver) within 3 months, fully autonomously.
+
+• Designed and developed two React Native / Expo mobile applications (Client & Driver)  
+• Built a scalable, microservices-ready API using NestJS & TypeScript  
+• Integrated real-time features using Supabase Realtime & Firebase  
+• Implemented push notifications (Firebase Cloud Messaging)  
+• Integrated Google Maps for geolocation & ride tracking  
+• Payment and communication integrations (Twilio, mTarget)  
+• CI/CD setup with EAS Workflow & GitHub  
+• Deployment preparation and APK distribution for testing  
+
+**Tech Stack:** React Native, Expo, NestJS, TypeScript, Supabase (PostgreSQL & Realtime), Firebase, Google Maps API, Twilio, Microservices Architecture, EAS, CI/CD, GitHub  
+
+🎯 Result: Functional MVP with active daily riders and increasing user adoption. Currently in deployment phase (APK available for testing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
