@@ -57,7 +57,7 @@ Full-stack logistics platform enabling users to send, receive and track parcels 
 
 - <a href="https://bokkdem.sn/" target="_blank"><strong>🚗 Bokk Dem</strong></a> – Moto-Taxi Mobile Platform (MVP)
 
-Lead Mobile Developer responsible for designing and delivering the MVP of a dual mobile application ecosystem (Client & Driver) within 3 months, fully autonomously.
+Lead Developer responsible for designing and delivering the MVP of a dual mobile application ecosystem (Client & Driver) within 3 months, fully autonomously.
 
 • Designed and developed two React Native / Expo mobile applications (Client & Driver)  
 • Built a scalable, microservices-ready API using NestJS & TypeScript  
