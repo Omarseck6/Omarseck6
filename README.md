@@ -72,6 +72,8 @@ Lead Developer responsible for designing and delivering the MVP of a dual mobile
 🎯 Result: Functional MVP with active daily riders and increasing user adoption.
 
 Driver App : https://play.google.com/store/apps/details?id=com.bokkdem.driver
+Customer App : https://play.google.com/store/apps/details?id=com.bokkdem.customer
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
