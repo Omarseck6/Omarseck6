@@ -4,10 +4,14 @@
 <h3 align="center">Software Engineer</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
+Software Engineer focused on building scalable digital products from concept to production.
+Experienced in designing robust backend systems, modern web and mobile applications, and implementing DevOps practices to ensure reliable and efficient deployments.
+Passionate about solving real-world problems through clean architecture, automation, and continuous improvement.
+
 
 - 📫 How to reach me **omarseck.dev@gmail.com**
 
-  Projects :
+<h3  align="center">Projects<h3/>
 
 - <a href="https://elitedental.fr/" target="_blank"><strong>🦷 Elite Dental</strong></a> – Custom WordPress Website  
 
