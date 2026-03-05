@@ -69,7 +69,9 @@ Lead Developer responsible for designing and delivering the MVP of a dual mobile
 
 **Tech Stack:** React Native, Expo, NestJS, TypeScript, Supabase (PostgreSQL & Realtime), Firebase, Google Maps API, Twilio, Microservices Architecture, EAS, CI/CD, GitHub  
 
-🎯 Result: Functional MVP with active daily riders and increasing user adoption. Currently in deployment phase (APK available for testing).
+🎯 Result: Functional MVP with active daily riders and increasing user adoption.
+
+Driver App : https://play.google.com/store/apps/details?id=com.bokkdem.driver
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
