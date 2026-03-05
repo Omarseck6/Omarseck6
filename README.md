@@ -8,10 +8,9 @@ Software Engineer focused on building scalable digital products from concept to 
 Experienced in designing robust backend systems, modern web and mobile applications, and implementing DevOps practices to ensure reliable and efficient deployments.
 Passionate about solving real-world problems through clean architecture, automation, and continuous improvement.
 
-
 - 📫 How to reach me **omarseck.dev@gmail.com**
 
-<h3  align="center">Projects<h3/>
+<h3  align="center">Projects</h3>
 
 - <a href="https://elitedental.fr/" target="_blank"><strong>🦷 Elite Dental</strong></a> – Custom WordPress Website  
 
