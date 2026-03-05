@@ -10,6 +10,14 @@ Passionate about solving real-world problems through clean architecture, automat
 
 - 📫 How to reach me **omarseck.dev@gmail.com**
 
+
+
+
+
+
+
+
+
 <h3  align="center">Projects</h3>
 
 - <a href="https://elitedental.fr/" target="_blank"><strong>🦷 Elite Dental</strong></a> – Custom WordPress Website  
