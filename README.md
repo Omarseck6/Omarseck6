@@ -32,7 +32,7 @@ Full-stack web and mobile dictionary application designed to promote and digitiz
 • Cross-platform mobile application  
 • Responsive web interface  
 
-**Tech Stack:** React.js, Next.js, React Native, Node.js, Express.js, Laravel, TypeScript, MySQL, Git, Vercel  
+**Tech Stack:** React.js, Next.js, React Native, Node.js, Express.js, PHP, TypeScript, MySQL, Git, Vercel  
 
 🎯 Goal: Build a scalable and accessible digital dictionary platform for language preservation.
 
@@ -48,7 +48,7 @@ Full-stack logistics platform enabling users to send, receive and track parcels 
 • Order status management (Pending, In Transit, Delivered)  
 • RESTful API integration  
 
-**Tech Stack:** React.js, Next.js, React Native, Node.js, Express.js, Laravel, JavaScript, MySQL, Git, Vercel  
+**Tech Stack:** React.js, Next.js, React Native, Node.js, Express.js, PHP, JavaScript, MySQL, Git, Vercel  
 
 🎯 Goal: Provide a modern and scalable digital logistics solution for local delivery operations.
 
